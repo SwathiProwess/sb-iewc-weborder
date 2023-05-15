@@ -46,7 +46,7 @@
 
 
 						<connectedAppGrantType>client_credentials</connectedAppGrantType>
-						<applicationName>sb-iewc-weborder</applicationName>
+						<applicationName>weborder-eapi</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
